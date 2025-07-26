@@ -29,6 +29,5 @@ python main.py --input_path cid_13.glb --nr_frames 128 --delay 10 --size 512
 
 Generated spinning GIF:
 
-```markdown
-![Sample GIF](wid_27_output/spinning.gif)
-```
+
+![Sample GIF](cid_13_output/spinning.gif)
